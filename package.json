@@ -1,6 +1,6 @@
 {
   "name": "es.shim",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Some shim api that let you can use in all node.js environment",
   "keyworks": [
     "es5",
