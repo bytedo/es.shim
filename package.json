@@ -1,0 +1,16 @@
+{
+  "name": "es.shim",
+  "version": "0.0.1",
+  "description": "Some shim api that let you can use in all node.js environment",
+  "keyworks": [
+    "es5",
+    "es6",
+    "polyfill",
+    "extend",
+    "shim"
+  ],
+  "main": "lib/index.js",
+  "repository": "https://github.com/yutent/es.shim.git",
+  "author": "yutent",
+  "license": "MIT"
+}
