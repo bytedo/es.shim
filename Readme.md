@@ -39,9 +39,6 @@
 
 
 
-+ global
-    * gmdate()
-    * empty()
     
 
 
@@ -165,34 +162,5 @@ str.htmlspecialchars('ENT_QUOTES') // &lt;script&gt;alert(&#39;hello world&#39;)
 ```javascript
 let str = `&lt;script&gt;alert(&#39;hello world&#39;)&lt;/script&gt;`
 str.tohtml() // <script>alert('hello world')</script>
-
-```
-
-
-
-
-### 9.global.empty()
-
-```javascript
-empty('') //true
-empty(null) //true
-empty(undefined) //true
-empty([]) //true
-empty({}) //true
-empty({a: 123}) //false
-empty(0) //true
-empty('0') //false
-empty(1) //false
-
-```
-
-
-### 10.global.gmdate()
-> Base on Date.prototype.format
-
-```javascript
-gmdate() // 2017-02-08 12:11:23
-gmdate('Y-m-d') // 2017-02-08
-gmdate('', 1470834884000) //2016-08-10 21:14:44
 
 ```

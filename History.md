@@ -1,3 +1,9 @@
+1.0.0 / 2018-05-25
+==================
+  * delete global extends
+  * add Promise.defer extend
+
+
 0.0.3 / 2017-03-17
 ==================
   * Optimise String extend function.
