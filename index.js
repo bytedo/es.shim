@@ -10,5 +10,6 @@
 require('./lib/object')
 require('./lib/array')
 require('./lib/string')
+require('./lib/number')
 require('./lib/date')
 require('./lib/promise')

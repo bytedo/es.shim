@@ -6,38 +6,39 @@
 
 
 + Obejct
-    * empty()
-
+  * empty()
 
 + Obejct.prototype
-    * merge()
+  * merge()
 
 
 + Array.prototype
-    * includes()
+  * includes()
 
 
 
 + Date
-    * isDate()
+  * isDate()
 
 
 + Date.prototype
-    * getFullWeek()
-    * getWeek()
-    * format()
+  * getFullWeek()
+  * getWeek()
+  * format()
 
 
 + String.prototype
-    * splice()
-    * htmlspecialchars()
-    * tohtml()
-    * xss()
-    * escape()
-    * padStart()
-    * padEnd()
+  * splice()
+  * htmlspecialchars()
+  * tohtml()
+  * xss()
+  * escape()
+  * padStart()
+  * padEnd()
 
 
++ Number
+  * parse()
 
     
 
