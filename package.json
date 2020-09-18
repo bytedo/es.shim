@@ -1,15 +1,13 @@
 {
   "name": "es.shim",
-  "version": "1.1.2",
-  "description": "Some shim api that let you can use in all node.js environment",
-  "keyworks": [
-    "es5",
-    "es6",
-    "polyfill",
-    "extend",
-    "shim"
-  ],
+  "version": "2.0.0",
+  "description": "实现部分新API, 以及一些常用的扩展方法",
+  "keyworks": ["es5", "es6", "es7", "polyfill", "extend", "shim"],
   "main": "index.js",
+  "exports": {
+    "require": "./index.js",
+    "import": "./index.mjs"
+  },
   "repository": "https://github.com/yutent/es.shim.git",
   "author": "yutent",
   "license": "MIT"

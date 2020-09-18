@@ -5,11 +5,9 @@
  *
  */
 
-'use strict'
-
-require('./lib/object')
-require('./lib/array')
-require('./lib/string')
-require('./lib/number')
-require('./lib/date')
-require('./lib/promise')
+require('./lib/cjs/object')
+require('./lib/cjs/array')
+require('./lib/cjs/string')
+require('./lib/cjs/number')
+require('./lib/cjs/date')
+require('./lib/cjs/promise')

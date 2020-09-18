@@ -1,17 +1,22 @@
+2.0.0 / 2020-09-18
+==================
+  * 重构, 分cjs版和esm版。
+
+
 1.1.1 / 2018-06-29
 ==================
-  * add Number.parse
+  * 增加 Number.parse
 
 
 1.0.1 / 2018-05-25
 ==================
-  * delete global extends
-  * add Promise.defer extend
+  * 删除 global 拓展
+  * 增加 Promise.defer
 
 
 0.0.3 / 2017-03-17
 ==================
-  * Optimise String extend function.
+  * 优化 String 拓展.
 
 0.0.1 / 2017-02-28
 ==================
