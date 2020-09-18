@@ -5,9 +5,9 @@
  *
  */
 
-import './lib/esm/object'
-import './lib/esm/array'
-import './lib/esm/string'
-import './lib/esm/number'
-import './lib/esm/date'
-import './lib/esm/promise'
+import './lib/object.js'
+import './lib/array.js'
+import './lib/string.js'
+import './lib/number.js'
+import './lib/date.js'
+import './lib/promise.js'
