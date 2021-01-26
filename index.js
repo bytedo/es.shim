@@ -7,7 +7,6 @@
 
 require('./lib/object')
 require('./lib/array.v6')
-require('./lib/array')
 require('./lib/string')
 require('./lib/number')
 require('./lib/date')
